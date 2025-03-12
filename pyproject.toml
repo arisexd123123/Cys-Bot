@@ -1,0 +1,16 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.13",
+    "discord-py>=2.5.0",
+    "flask>=3.1.0",
+    "nextcord>=2.6.0",
+    "numpy>=2.2.3",
+    "spotipy>=2.25.1",
+    "wavelink>=3.4.1",
+    "yt-dlp>=2025.2.19",
+]

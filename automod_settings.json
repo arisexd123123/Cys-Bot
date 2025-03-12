@@ -1,0 +1,31 @@
+
+{
+    "block_links": true,
+    "block_invites": true,
+    "block_caps": true,
+    "block_emoji_spam": true,
+    "block_blacklisted_words": true,
+    "anti_raid": true,
+    "impersonation_detection": true,
+    "keyword_monitoring": true,
+    "nsfw_text_filter": true,
+    "nsfw_image_filter": true,
+    "max_messages_per_window": 5,
+    "whitelisted_domains": [
+        "discord.gg/mXT9pf5Nh4",
+        "discord.com",
+        "discordapp.com",
+        "tenor.com",
+        "giphy.com",
+        "youtube.com",
+        "youtu.be"
+    ],
+    "monitored_keywords": [
+        "hack",
+        "raid",
+        "nuke",
+        "token",
+        "selfbot",
+        "ddos"
+    ]
+}
